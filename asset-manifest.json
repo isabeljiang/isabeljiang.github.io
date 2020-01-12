@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.42b7198f.chunk.css",
-    "main.js": "/static/js/main.a7d6f6d1.chunk.js",
-    "main.js.map": "/static/js/main.a7d6f6d1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f4331148.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f4331148.js.map",
-    "static/css/2.64a99b10.chunk.css": "/static/css/2.64a99b10.chunk.css",
-    "static/js/2.72666a59.chunk.js": "/static/js/2.72666a59.chunk.js",
-    "static/js/2.72666a59.chunk.js.map": "/static/js/2.72666a59.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.400faa5fbc78dc07177ab1c7e7b054e3.js": "/precache-manifest.400faa5fbc78dc07177ab1c7e7b054e3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.42b7198f.chunk.css.map": "/static/css/main.42b7198f.chunk.css.map",
-    "static/js/2.72666a59.chunk.js.LICENSE": "/static/js/2.72666a59.chunk.js.LICENSE",
-    "static/media/stitchedbg.png": "/static/media/stitchedbg.5fe74da0.png",
-    "static/media/stitchediter1.png": "/static/media/stitchediter1.4e09a4f4.png",
-    "static/media/stitchediter2.png": "/static/media/stitchediter2.f1aa72d7.png",
-    "static/media/stitchedmain.png": "/static/media/stitchedmain.13790ebf.png",
-    "static/media/stitcheduser.png": "/static/media/stitcheduser.cc6ba9e7.png"
+    "main.css": "/myportfolio/static/css/main.42b7198f.chunk.css",
+    "main.js": "/myportfolio/static/js/main.fcbed65a.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.fcbed65a.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.137c290a.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.137c290a.js.map",
+    "static/css/2.64a99b10.chunk.css": "/myportfolio/static/css/2.64a99b10.chunk.css",
+    "static/js/2.72666a59.chunk.js": "/myportfolio/static/js/2.72666a59.chunk.js",
+    "static/js/2.72666a59.chunk.js.map": "/myportfolio/static/js/2.72666a59.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.e54764f1c5e67cc5547fba39773d3ebf.js": "/myportfolio/precache-manifest.e54764f1c5e67cc5547fba39773d3ebf.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/myportfolio/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.42b7198f.chunk.css.map": "/myportfolio/static/css/main.42b7198f.chunk.css.map",
+    "static/js/2.72666a59.chunk.js.LICENSE": "/myportfolio/static/js/2.72666a59.chunk.js.LICENSE",
+    "static/media/stitchedbg.png": "/myportfolio/static/media/stitchedbg.5fe74da0.png",
+    "static/media/stitchediter1.png": "/myportfolio/static/media/stitchediter1.4e09a4f4.png",
+    "static/media/stitchediter2.png": "/myportfolio/static/media/stitchediter2.f1aa72d7.png",
+    "static/media/stitchedmain.png": "/myportfolio/static/media/stitchedmain.13790ebf.png",
+    "static/media/stitcheduser.png": "/myportfolio/static/media/stitcheduser.cc6ba9e7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4331148.js",
+    "static/js/runtime-main.137c290a.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.72666a59.chunk.js",
     "static/css/main.42b7198f.chunk.css",
-    "static/js/main.a7d6f6d1.chunk.js"
+    "static/js/main.fcbed65a.chunk.js"
   ]
 }
