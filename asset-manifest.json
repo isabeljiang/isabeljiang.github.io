@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42b7198f.chunk.css",
+    "main.js": "/static/js/main.a7d6f6d1.chunk.js",
+    "main.js.map": "/static/js/main.a7d6f6d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4331148.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4331148.js.map",
+    "static/css/2.64a99b10.chunk.css": "/static/css/2.64a99b10.chunk.css",
+    "static/js/2.72666a59.chunk.js": "/static/js/2.72666a59.chunk.js",
+    "static/js/2.72666a59.chunk.js.map": "/static/js/2.72666a59.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.400faa5fbc78dc07177ab1c7e7b054e3.js": "/precache-manifest.400faa5fbc78dc07177ab1c7e7b054e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.42b7198f.chunk.css.map": "/static/css/main.42b7198f.chunk.css.map",
+    "static/js/2.72666a59.chunk.js.LICENSE": "/static/js/2.72666a59.chunk.js.LICENSE",
+    "static/media/stitchedbg.png": "/static/media/stitchedbg.5fe74da0.png",
+    "static/media/stitchediter1.png": "/static/media/stitchediter1.4e09a4f4.png",
+    "static/media/stitchediter2.png": "/static/media/stitchediter2.f1aa72d7.png",
+    "static/media/stitchedmain.png": "/static/media/stitchedmain.13790ebf.png",
+    "static/media/stitcheduser.png": "/static/media/stitcheduser.cc6ba9e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4331148.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.72666a59.chunk.js",
+    "static/css/main.42b7198f.chunk.css",
+    "static/js/main.a7d6f6d1.chunk.js"
+  ]
+}
